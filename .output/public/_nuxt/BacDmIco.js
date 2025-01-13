@@ -1,0 +1,1 @@
+import{aK as n,aL as o,a as t,aM as i}from"./CFvPMSyN.js";const a=n({pocketbase:{url:"http://localhost:8090",prod:"https://bgs-studio-db.crunchymediadigital.id"}}),s={nuxt:{}},e=o(a,s);function u(){const p=t();return p._appConfig||(p._appConfig=i(e)),p._appConfig}export{u};
